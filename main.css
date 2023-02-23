@@ -57,6 +57,7 @@ body {
     color: #fff;
     border-color: #fff;
     letter-spacing: 2px;
+    cursor: pointer;
 }
 
 .hero-center p {
